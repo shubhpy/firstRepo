@@ -1,3 +1,4 @@
+#it was a codeforces problem laptops.py
 n=input()
 list1=[]
 temp=1
